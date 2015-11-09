@@ -1,0 +1,26 @@
+id,name,line,lat,lng,LineOrder
+56,Bartley,Yellow,1.34261,103.879916,CC12
+57,Bayfront,Yellow,1.282347,103.859274,"CE1,DT16"
+58,Botanic Gardens,Yellow,1.322508,103.815438,CC19
+59,Bras Basah,Yellow,1.296867,103.850685,CC2
+60,Caldecott,Yellow,1.337793,103.839468,CC17
+61,Dakota,Yellow,1.308257,103.888242,CC8
+63,Esplanade,Yellow,1.293425,103.855295,CC3
+64,Farrer Road,Yellow,1.317319,103.807442,CC20
+65,HarbourFront,"Yellow, purple",1.265319,103.820592,"CC29,NE1"
+66,Haw Par Villa,Yellow,1.282373,103.781876,CC25
+67,Holland Village,Yellow,1.312089,103.796165,CC21
+68,Kent Ridge,Yellow,1.293394,103.784383,CC24
+69,Labrador Park,Yellow,1.272299,103.802726,CC27
+70,Lorong Chuan,Yellow,1.352009,103.863519,CC14
+71,MacPherson,Yellow,1.326629,103.890008,"CC10, DT26"
+73,Marymount,Yellow,1.349078,103.839481,CC16
+74,Mountbatten,Yellow,1.306285,103.882531,CC7
+75,Nicoll Highway,Yellow,1.299675,103.863639,CC5
+76,one-north,Yellow,1.299352,103.787046,CC23
+77,Pasir Panjang,Yellow,1.276178,103.791283,CC26
+78,Promenade,Yellow,1.293146,103.860992,"CC4,DT15,CE0"
+79,Serangoon,Yellow,1.34927,103.873497,"CC13,NE12"
+80,Stadium,Yellow,1.302845,103.875285,CC6
+81,Tai Seng,Yellow,1.335887,103.887921,CC11
+82,Telok Blangah,Yellow,1.270626,103.809657,CC28
